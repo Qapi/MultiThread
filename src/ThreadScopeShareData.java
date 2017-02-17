@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class ThreadScopeShareData {
 
-	private static int data = 0;
+	//private static int data = 0;
 	private static Map<Thread, Integer> threadData = new HashMap<Thread, Integer>();
 	public static void main(String[] args) {
 		for(int i=0;i<2;i++){
@@ -25,7 +25,7 @@ public class ThreadScopeShareData {
 	static class A{
 		public void get(){
 			int data = threadData.get(Thread.currentThread());
-			System.out.println("A from " + Thread.currentThread().getName() 
+			System.out.println("A from " + Thread.currentThread().getName()
 					+ " get data :" + data);
 		}
 	}
