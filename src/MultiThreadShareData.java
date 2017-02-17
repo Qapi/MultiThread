@@ -1,3 +1,7 @@
+/**
+ * 设计4个线程，其中2个对j增加1，另2个对j减少1，如此不停循环
+ */
+
 public class MultiThreadShareData {
 
 	private static ShareData1 data1 = new ShareData1();

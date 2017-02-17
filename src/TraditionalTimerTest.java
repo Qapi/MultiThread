@@ -2,12 +2,15 @@ import java.util.Date;
 import java.util.Timer;
 import java.util.TimerTask;
 
+/**
+ * 实现2秒一炸，再4秒一炸，无限循环 （实际应用可实用quartz）
+ */
 public class TraditionalTimerTest {
 
 	private static int count = 0;
 	public static void main(String[] args) {
 /*		new Timer().schedule(new TimerTask() {
-			
+
 			@Override
 			public void run() {
 				System.out.println("bombing!");
