@@ -2,6 +2,9 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
 
+/**
+ * 利用map 集合实现各个线程分别有各自的独份数据
+ */
 public class ThreadScopeShareData {
 
 	//private static int data = 0;

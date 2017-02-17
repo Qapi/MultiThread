@@ -2,10 +2,13 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
 
+/**
+ * 利用ThreadLocal 实现每个线程存放各自的基本类型和复杂类型的变量
+ */
 public class ThreadLocalTest {
 
 	private static ThreadLocal<Integer> x = new ThreadLocal<Integer>();
-	private static ThreadLocal<MyThreadScopeData> myThreadScopeData = new ThreadLocal<MyThreadScopeData>();
+	//private static ThreadLocal<MyThreadScopeData> myThreadScopeData = new ThreadLocal<MyThreadScopeData>();
 	public static void main(String[] args) {
 		for(int i=0;i<2;i++){
 			new Thread(new Runnable(){
@@ -15,7 +18,7 @@ public class ThreadLocalTest {
 					System.out.println(Thread.currentThread().getName() 
 							+ " has put data :" + data);
 					x.set(data);
-/*					MyThreadScopeData myData = new MyThreadScopeData();
+					/*MyThreadScopeData myData = new MyThreadScopeData();
 					myData.setName("name" + data);
 					myData.setAge(data);
 					myThreadScopeData.set(myData);*/
@@ -57,6 +60,9 @@ public class ThreadLocalTest {
 	}
 }
 
+/**
+ * 本例中采取ThreadLocal存放实例，以使每个线程提取到各自的实例，故不是单例模式
+ */
 class MyThreadScopeData{
 	private MyThreadScopeData(){}
 	public static /*synchronized*/ MyThreadScopeData getThreadInstance(){
