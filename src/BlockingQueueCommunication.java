@@ -6,6 +6,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 public class BlockingQueueCommunication {
 
 	/**
+	 * BlockQueue 与 SemaphoreTest实现如下功能的区别在于前者可以由其它线程唤醒，后者只能由自己唤醒
 	 * @param args
 	 */
 	public static void main(String[] args) {

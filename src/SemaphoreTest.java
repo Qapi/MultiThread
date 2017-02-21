@@ -3,7 +3,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Semaphore;
 
 /**
- * 交通灯线程Semaphore，可实现多个线程竞争(定额数量)的执行代码权
+ * 交通灯线程Semaphore，可实现多个线程竞争(定额数量)的执行代码权(类似阻塞队列)
  */
 public class SemaphoreTest {
 	public static void main(String[] args) {
