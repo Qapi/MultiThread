@@ -1,7 +1,9 @@
 import java.util.concurrent.Exchanger;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-
+/**
+ * 用同一个Exchanger实现线程间的数据交换
+ */
 public class ExchangerTest {
 
 	public static void main(String[] args) {

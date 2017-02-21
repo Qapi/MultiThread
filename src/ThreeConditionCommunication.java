@@ -3,6 +3,9 @@ import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
+/**
+ * 同时启动三个线程，互相唤醒，实现线程间通信
+ */
 public class ThreeConditionCommunication {
 
 	/**

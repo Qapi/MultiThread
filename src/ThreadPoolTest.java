@@ -5,6 +5,9 @@ import java.util.concurrent.TimeUnit;
 public class ThreadPoolTest {
 
 	/**
+	 * newFixedThreadPool  定长线程池
+	 * newCachedThreadPool  不定长线程池
+	 * newSingleThreadExecutor 单例线程池
 	 * @param args
 	 */
 	public static void main(String[] args) {

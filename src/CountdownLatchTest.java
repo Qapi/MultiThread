@@ -3,6 +3,9 @@ import java.util.concurrent.CyclicBarrier;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
+/**
+ * 使用场景：某个线程需要等待其它若干个线程触发countDown计数为0后，再启动
+ */
 public class CountdownLatchTest {
 
 	public static void main(String[] args) {

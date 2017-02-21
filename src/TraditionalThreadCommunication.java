@@ -1,7 +1,8 @@
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * 子线程执行10次，主线程执行100次，依次循环50次
+ * 利用synchronized实现子线程执行10次，主线程执行100次，依次循环50次
+ * 实用Lock可参见ConditionCommunication
  */
 
 public class TraditionalThreadCommunication {

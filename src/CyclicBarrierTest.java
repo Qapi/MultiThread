@@ -2,6 +2,9 @@ import java.util.concurrent.CyclicBarrier;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
+/**
+ * 使用场景：保证所有的线程同一时间开始执行相关的代码
+ */
 public class CyclicBarrierTest {
 
 	public static void main(String[] args) {

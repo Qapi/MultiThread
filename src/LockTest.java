@@ -1,7 +1,9 @@
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-
+/**
+ * 不同TraditionalThreadSynchronized，利用加锁实现打印一个姓名的原子操作
+ */
 public class LockTest {
 
 	/**

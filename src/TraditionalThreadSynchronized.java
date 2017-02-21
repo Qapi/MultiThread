@@ -1,6 +1,7 @@
 public class TraditionalThreadSynchronized {
 
 	/**
+	 * 演示虚拟机切换线程状态时可能发生的非原子事件
 	 * @param args
 	 */
 	public static void main(String[] args) {

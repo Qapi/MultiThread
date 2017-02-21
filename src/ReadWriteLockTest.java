@@ -2,6 +2,9 @@ import java.util.Random;
 import java.util.concurrent.locks.ReadWriteLock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
+/**
+ * 同时分别开启3个读数据和存数据的线程，利用读写锁ReadWriteLock实现读读不互斥，读写/写写互斥
+ */
 public class ReadWriteLockTest {
 	public static void main(String[] args) {
 		final Queue3 q3 = new Queue3();

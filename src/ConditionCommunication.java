@@ -2,7 +2,10 @@ import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
-
+/**
+ * 利用Lock实现子线程执行10次，主线程执行100次，依次循环50次
+ * 实用synchronized可参见TraditionalThreadCommunication
+ */
 public class ConditionCommunication {
 
 	/**
