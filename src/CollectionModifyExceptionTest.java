@@ -2,6 +2,10 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
 import java.util.concurrent.CopyOnWriteArrayList;
+
+/**
+ * 线程安全的ArrayList
+ */
 public class CollectionModifyExceptionTest {
 	public static void main(String[] args) {
 		Collection users = new CopyOnWriteArrayList();

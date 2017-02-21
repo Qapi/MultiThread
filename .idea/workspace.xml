@@ -2,26 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2da6860-a278-4523-b0bb-11c4237fa679" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ExchangerTest$1.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ExchangerTest$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ExchangerTest$2.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ExchangerTest$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ExchangerTest.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ExchangerTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/LockTest$1.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/LockTest$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/LockTest$2.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/LockTest$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/LockTest$Outputer.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/LockTest$Outputer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/LockTest.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/LockTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/SemaphoreTest$1.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/SemaphoreTest$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/SemaphoreTest.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/SemaphoreTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ThreadPoolTest$1.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ThreadPoolTest$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ThreadPoolTest$2.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ThreadPoolTest$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ThreadPoolTest.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ThreadPoolTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ThreeConditionCommunication$1.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ThreeConditionCommunication$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ThreeConditionCommunication$2.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ThreeConditionCommunication$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ThreeConditionCommunication$Business.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ThreeConditionCommunication$Business.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ThreeConditionCommunication.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ThreeConditionCommunication.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/BlockingQueueTest$1.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/BlockingQueueTest$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/BlockingQueueTest$2.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/BlockingQueueTest$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/BlockingQueueTest.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/BlockingQueueTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/Business.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/Business.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/CacheDemo.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/CacheDemo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/CallableAndFuture$1.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/CallableAndFuture$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/CallableAndFuture$2.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/CallableAndFuture$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/CallableAndFuture.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/CallableAndFuture.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ConditionCommunication$1.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ConditionCommunication$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ConditionCommunication$Business.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ConditionCommunication$Business.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ConditionCommunication.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ConditionCommunication.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/CountdownLatchTest$1.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/CountdownLatchTest$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/CountdownLatchTest.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/CountdownLatchTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/CyclicBarrierTest$1.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/CyclicBarrierTest$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/CyclicBarrierTest.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/CyclicBarrierTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/TraditionalThreadCommunication$1.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/TraditionalThreadCommunication$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/TraditionalThreadCommunication.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/TraditionalThreadCommunication.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BlockingQueueTest.java" afterPath="$PROJECT_DIR$/src/BlockingQueueTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CacheDemo.java" afterPath="$PROJECT_DIR$/src/CacheDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CallableAndFuture.java" afterPath="$PROJECT_DIR$/src/CallableAndFuture.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CollectionModifyExceptionTest.java" afterPath="$PROJECT_DIR$/src/CollectionModifyExceptionTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -106,9 +105,11 @@
       <file leaf-file-name="CollectionModifyExceptionTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CollectionModifyExceptionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-              <folding />
+            <state relative-caret-position="138">
+              <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -197,6 +198,7 @@
         <option value="$PROJECT_DIR$/src/CallableAndFuture.java" />
         <option value="$PROJECT_DIR$/src/CacheDemo.java" />
         <option value="$PROJECT_DIR$/src/BlockingQueueTest.java" />
+        <option value="$PROJECT_DIR$/src/CollectionModifyExceptionTest.java" />
       </list>
     </option>
   </component>
@@ -256,6 +258,78 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ClassTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MultiThread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MultiThread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ClassTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MultiThread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MultiThread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MultiThread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MultiThread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThreadScopeShareData" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ClassTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MultiThread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MultiThread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlockingQueueCommunication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ClassTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -739,7 +813,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1487299054529</updated>
-      <workItem from="1487299058154" duration="20779000" />
+      <workItem from="1487299058154" duration="20904000" />
     </task>
     <task id="LOCAL-00001" summary="1、添加说明注释&#10;2、注释无用代码">
       <created>1487318545363</created>
@@ -769,11 +843,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487642565456</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1、添加说明注释&#10;2、注释无用代码">
+      <created>1487649454297</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1487649454298</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20779000" />
+    <option name="totallyTimeSpent" value="20904000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="23" width="1280" height="933" extended-state="0" />
@@ -1065,9 +1146,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CollectionModifyExceptionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding />
+        <state relative-caret-position="138">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
