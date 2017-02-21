@@ -1,37 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2da6860-a278-4523-b0bb-11c4237fa679" name="Default" comment="1、添加说明注释&#10;2、注释无用代码">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/MultiThreadShareData$1.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/MultiThreadShareData$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/MultiThreadShareData$2.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/MultiThreadShareData$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/MultiThreadShareData.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/MultiThreadShareData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/MyRunnable1.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/MyRunnable1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/MyRunnable2.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/MyRunnable2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/Queue3.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/Queue3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ReadWriteLockTest$1.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ReadWriteLockTest$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ReadWriteLockTest$2.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ReadWriteLockTest$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ReadWriteLockTest.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ReadWriteLockTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ShareData1.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ShareData1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/TraditionalThreadSynchronized$1.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/TraditionalThreadSynchronized$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/TraditionalThreadSynchronized$2.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/TraditionalThreadSynchronized$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/TraditionalThreadSynchronized$Outputer.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/TraditionalThreadSynchronized$Outputer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/TraditionalThreadSynchronized.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/TraditionalThreadSynchronized.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/TraditionalTimerTest$1MyTimerTask.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/TraditionalTimerTest$1MyTimerTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/TraditionalTimerTest.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/TraditionalTimerTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+    <list default="true" id="b2da6860-a278-4523-b0bb-11c4237fa679" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ExchangerTest$1.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ExchangerTest$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ExchangerTest$2.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ExchangerTest$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ExchangerTest.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ExchangerTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/LockTest$1.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/LockTest$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/LockTest$2.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/LockTest$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/LockTest$Outputer.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/LockTest$Outputer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/LockTest.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/LockTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/SemaphoreTest$1.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/SemaphoreTest$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/SemaphoreTest.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/SemaphoreTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ThreadPoolTest$1.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ThreadPoolTest$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ThreadPoolTest$2.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ThreadPoolTest$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ThreadPoolTest.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ThreadPoolTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ThreeConditionCommunication$1.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ThreeConditionCommunication$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ThreeConditionCommunication$2.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ThreeConditionCommunication$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ThreeConditionCommunication$Business.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ThreeConditionCommunication$Business.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MultiThread/ThreeConditionCommunication.class" afterPath="$PROJECT_DIR$/out/production/MultiThread/ThreeConditionCommunication.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ConditionCommunication.java" afterPath="$PROJECT_DIR$/src/ConditionCommunication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CountdownLatchTest.java" afterPath="$PROJECT_DIR$/src/CountdownLatchTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CyclicBarrierTest.java" afterPath="$PROJECT_DIR$/src/CyclicBarrierTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ExchangerTest.java" afterPath="$PROJECT_DIR$/src/ExchangerTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LockTest.java" afterPath="$PROJECT_DIR$/src/LockTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MultiThreadShareData.java" afterPath="$PROJECT_DIR$/src/MultiThreadShareData.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ReadWriteLockTest.java" afterPath="$PROJECT_DIR$/src/ReadWriteLockTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SemaphoreTest.java" afterPath="$PROJECT_DIR$/src/SemaphoreTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ThreadPoolTest.java" afterPath="$PROJECT_DIR$/src/ThreadPoolTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ThreeConditionCommunication.java" afterPath="$PROJECT_DIR$/src/ThreeConditionCommunication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TraditionalThreadCommunication.java" afterPath="$PROJECT_DIR$/src/TraditionalThreadCommunication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TraditionalThreadSynchronized.java" afterPath="$PROJECT_DIR$/src/TraditionalThreadSynchronized.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BlockingQueueTest.java" afterPath="$PROJECT_DIR$/src/BlockingQueueTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CacheDemo.java" afterPath="$PROJECT_DIR$/src/CacheDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CallableAndFuture.java" afterPath="$PROJECT_DIR$/src/CallableAndFuture.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,40 +45,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ThreadLocalTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ThreadLocalTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SemaphoreTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SemaphoreTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MultiThreadShareData.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MultiThreadShareData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="44" lean-forward="false" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LockTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LockTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -150,9 +106,49 @@
       <file leaf-file-name="CollectionModifyExceptionTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CollectionModifyExceptionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="161">
+              <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CallableAndFuture.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CallableAndFuture.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CacheDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CacheDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="7" column="57" lean-forward="false" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlockingQueueTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BlockingQueueTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#363#799#0" expanded="true" />
+                <element signature="e#798#799#0" expanded="true" />
+                <element signature="e#816#1258#0" expanded="true" />
+                <element signature="e#1257#1258#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -198,6 +194,9 @@
         <option value="$PROJECT_DIR$/src/CountdownLatchTest.java" />
         <option value="$PROJECT_DIR$/src/TraditionalThreadCommunication.java" />
         <option value="$PROJECT_DIR$/src/ConditionCommunication.java" />
+        <option value="$PROJECT_DIR$/src/CallableAndFuture.java" />
+        <option value="$PROJECT_DIR$/src/CacheDemo.java" />
+        <option value="$PROJECT_DIR$/src/BlockingQueueTest.java" />
       </list>
     </option>
   </component>
@@ -259,42 +258,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MultiThread" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MultiThread" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThreadPoolTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ClassTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MultiThread" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MultiThread" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ConditionCommunication" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ClassTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -320,22 +283,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CyclicBarrierTest">
-    <configuration default="false" name="TraditionalTimerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="TraditionalTimerTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MultiThread" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.BlockingQueueTest">
     <configuration default="false" name="ReadWriteLockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="ReadWriteLockTest" />
@@ -384,6 +332,21 @@
     <configuration default="false" name="CyclicBarrierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="CyclicBarrierTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MultiThread" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="BlockingQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="BlockingQueueTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -747,19 +710,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TraditionalTimerTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ReadWriteLockTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TraditionalThread" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MultiThreadShareData" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CyclicBarrierTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ReadWriteLockTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TraditionalThread" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MultiThreadShareData" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CyclicBarrierTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BlockingQueueTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CyclicBarrierTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MultiThreadShareData" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TraditionalThread" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ReadWriteLockTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TraditionalTimerTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BlockingQueueTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CyclicBarrierTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MultiThreadShareData" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TraditionalThread" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ReadWriteLockTest" />
       </list>
     </recent_temporary>
   </component>
@@ -776,7 +739,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1487299054529</updated>
-      <workItem from="1487299058154" duration="18698000" />
+      <workItem from="1487299058154" duration="20779000" />
     </task>
     <task id="LOCAL-00001" summary="1、添加说明注释&#10;2、注释无用代码">
       <created>1487318545363</created>
@@ -799,11 +762,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487565497185</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1、添加说明注释&#10;2、注释无用代码">
+      <created>1487642565456</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1487642565456</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18698000" />
+    <option name="totallyTimeSpent" value="20779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="23" width="1280" height="933" extended-state="0" />
@@ -954,7 +924,7 @@
         <state relative-caret-position="138">
           <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1059,10 +1029,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/CallableAndFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CacheDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="7" column="57" lean-forward="false" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BlockingQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#363#799#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#816#1258#0" expanded="true" />
+            <element signature="e#1257#1258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/CollectionModifyExceptionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="161">
+          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
           <folding />
         </state>
       </provider>
