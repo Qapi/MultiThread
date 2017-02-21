@@ -3,7 +3,7 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * 手工实现阻塞队列功能，已有轮子请参见BlockQueue
+ * 手工实现由数组支持的有界阻塞队列功能，已有轮子请参见ArrayBlockingQueue
  */
 class BoundedBuffer {
    final Lock lock = new ReentrantLock();
