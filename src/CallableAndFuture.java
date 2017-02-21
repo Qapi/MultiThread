@@ -9,7 +9,7 @@ import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
 
 /**
- * 利用threadPool获取线程执行结果(直到结果出来才会执行相关代码)
+ * 利用future获取线程执行结果(直到结果出来才会执行相关代码)
  */
 
 public class CallableAndFuture {

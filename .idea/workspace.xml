@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b2da6860-a278-4523-b0bb-11c4237fa679" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BoundedBuffer.java" afterPath="$PROJECT_DIR$/src/BoundedBuffer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CallableAndFuture.java" afterPath="$PROJECT_DIR$/src/CallableAndFuture.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,16 +27,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ConditionCommunication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ConditionCommunication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SemaphoreTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SemaphoreTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -111,14 +101,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BoundedBuffer.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BoundedBuffer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BoundedBuffer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
+            <state relative-caret-position="253">
               <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CallableAndFuture.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CallableAndFuture.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -164,13 +164,13 @@
         <option value="$PROJECT_DIR$/src/CountdownLatchTest.java" />
         <option value="$PROJECT_DIR$/src/TraditionalThreadCommunication.java" />
         <option value="$PROJECT_DIR$/src/ConditionCommunication.java" />
-        <option value="$PROJECT_DIR$/src/CallableAndFuture.java" />
         <option value="$PROJECT_DIR$/src/CacheDemo.java" />
         <option value="$PROJECT_DIR$/src/BlockingQueueTest.java" />
         <option value="$PROJECT_DIR$/src/CollectionModifyExceptionTest.java" />
         <option value="$PROJECT_DIR$/src/BlockingQueueCommunication.java" />
         <option value="$PROJECT_DIR$/src/SemaphoreTest.java" />
         <option value="$PROJECT_DIR$/src/BoundedBuffer.java" />
+        <option value="$PROJECT_DIR$/src/CallableAndFuture.java" />
       </list>
     </option>
   </component>
@@ -230,6 +230,24 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MultiThread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MultiThread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CallableAndFuture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ClassTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -713,7 +731,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1487299054529</updated>
-      <workItem from="1487299058154" duration="22661000" />
+      <workItem from="1487299058154" duration="23208000" />
     </task>
     <task id="LOCAL-00001" summary="1、添加说明注释&#10;2、注释无用代码">
       <created>1487318545363</created>
@@ -771,11 +789,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487651107367</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="1、添加说明注释&#10;2、注释无用代码">
+      <created>1487652700568</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1487652700568</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22661000" />
+    <option name="totallyTimeSpent" value="23208000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="23" width="1280" height="933" extended-state="0" />
@@ -936,16 +961,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CallableAndFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CacheDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1068,11 +1083,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BoundedBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
+        <state relative-caret-position="253">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CallableAndFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
